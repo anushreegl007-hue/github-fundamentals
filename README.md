@@ -2,7 +2,7 @@
 
 My name is Anushree GL, and I am a Computer Science student at REVA University. This repository is created as part of my GitHub Fundamentals activity to learn and practice Git and GitHub workflows.
 
-Learning C programming and GitHub.
+Learning C programming, GitHub, and problem solving.
 
 Interested in software development and technology.
 
