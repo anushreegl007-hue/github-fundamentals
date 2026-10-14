@@ -7,3 +7,5 @@ Learning C programming, GitHub, and problem solving.
 Interested in software development, web development, and technology.
 
 Goal: improve my programming skills and contribute to open-source projects in the future.
+## Projects
+- **Portfolio Website**: A personal website built with HTML and CSS to showcase my developer journey.
